@@ -9,21 +9,37 @@
 /* Begin PBXBuildFile section */
 		4A5D842427EA6FC6004909AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5D842327EA6FC6004909AD /* AppDelegate.swift */; };
 		4A5D842627EA6FC6004909AD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5D842527EA6FC6004909AD /* SceneDelegate.swift */; };
-		4A5D842827EA6FC6004909AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5D842727EA6FC6004909AD /* ViewController.swift */; };
 		4A5D842B27EA6FC6004909AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D842927EA6FC6004909AD /* Main.storyboard */; };
 		4A5D842D27EA6FCB004909AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D842C27EA6FCB004909AD /* Assets.xcassets */; };
 		4A5D843027EA6FCB004909AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D842E27EA6FCB004909AD /* LaunchScreen.storyboard */; };
+		4A5D843827EA7355004909AD /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5D843727EA7355004909AD /* FirstViewController.swift */; };
+		4A5D843A27EA7378004909AD /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5D843927EA7378004909AD /* SecondViewController.swift */; };
+		4A5D843C27EA7640004909AD /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5D843B27EA7640004909AD /* ThirdViewController.swift */; };
+		4A5D847E27F16823004909AD /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5D847D27F16823004909AD /* FourthViewController.swift */; };
+		4A5D848327F171C7004909AD /* instagram.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D847F27F171C7004909AD /* instagram.png */; };
+		4A5D848427F171C7004909AD /* FB.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D848027F171C7004909AD /* FB.png */; };
+		4A5D848627F171C7004909AD /* LinkedIn.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D848227F171C7004909AD /* LinkedIn.png */; };
+		4A5D848827F17343004909AD /* 25231.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D848727F17343004909AD /* 25231.png */; };
+		4A5D848A27F3A55A004909AD /* dea0f3b7f480b1151c08db4a402a43b9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D848927F3A55A004909AD /* dea0f3b7f480b1151c08db4a402a43b9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4A5D842027EA6FC6004909AD /* TabbedApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabbedApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A5D842027EA6FC6004909AD /* druth_SMC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = druth_SMC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A5D842327EA6FC6004909AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4A5D842527EA6FC6004909AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		4A5D842727EA6FC6004909AD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4A5D842A27EA6FC6004909AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4A5D842C27EA6FCB004909AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A5D842F27EA6FCB004909AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A5D843127EA6FCB004909AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A5D843727EA7355004909AD /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		4A5D843927EA7378004909AD /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		4A5D843B27EA7640004909AD /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		4A5D847D27F16823004909AD /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		4A5D847F27F171C7004909AD /* instagram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instagram.png; sourceTree = "<group>"; };
+		4A5D848027F171C7004909AD /* FB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FB.png; sourceTree = "<group>"; };
+		4A5D848227F171C7004909AD /* LinkedIn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LinkedIn.png; sourceTree = "<group>"; };
+		4A5D848727F17343004909AD /* 25231.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 25231.png; sourceTree = "<group>"; };
+		4A5D848927F3A55A004909AD /* dea0f3b7f480b1151c08db4a402a43b9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dea0f3b7f480b1151c08db4a402a43b9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,7 +56,7 @@
 		4A5D841727EA6FC6004909AD = {
 			isa = PBXGroup;
 			children = (
-				4A5D842227EA6FC6004909AD /* TabbedApp */,
+				4A5D842227EA6FC6004909AD /* druth_SMC */,
 				4A5D842127EA6FC6004909AD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,31 +64,39 @@
 		4A5D842127EA6FC6004909AD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4A5D842027EA6FC6004909AD /* TabbedApp.app */,
+				4A5D842027EA6FC6004909AD /* druth_SMC.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4A5D842227EA6FC6004909AD /* TabbedApp */ = {
+		4A5D842227EA6FC6004909AD /* druth_SMC */ = {
 			isa = PBXGroup;
 			children = (
 				4A5D842327EA6FC6004909AD /* AppDelegate.swift */,
 				4A5D842527EA6FC6004909AD /* SceneDelegate.swift */,
-				4A5D842727EA6FC6004909AD /* ViewController.swift */,
-				4A5D842927EA6FC6004909AD /* Main.storyboard */,
 				4A5D842C27EA6FCB004909AD /* Assets.xcassets */,
 				4A5D842E27EA6FCB004909AD /* LaunchScreen.storyboard */,
 				4A5D843127EA6FCB004909AD /* Info.plist */,
+				4A5D843727EA7355004909AD /* FirstViewController.swift */,
+				4A5D843927EA7378004909AD /* SecondViewController.swift */,
+				4A5D843B27EA7640004909AD /* ThirdViewController.swift */,
+				4A5D842927EA6FC6004909AD /* Main.storyboard */,
+				4A5D847D27F16823004909AD /* FourthViewController.swift */,
+				4A5D848027F171C7004909AD /* FB.png */,
+				4A5D847F27F171C7004909AD /* instagram.png */,
+				4A5D848227F171C7004909AD /* LinkedIn.png */,
+				4A5D848727F17343004909AD /* 25231.png */,
+				4A5D848927F3A55A004909AD /* dea0f3b7f480b1151c08db4a402a43b9.jpg */,
 			);
-			path = TabbedApp;
+			path = druth_SMC;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4A5D841F27EA6FC6004909AD /* TabbedApp */ = {
+		4A5D841F27EA6FC6004909AD /* druth_SMC */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4A5D843427EA6FCB004909AD /* Build configuration list for PBXNativeTarget "TabbedApp" */;
+			buildConfigurationList = 4A5D843427EA6FCB004909AD /* Build configuration list for PBXNativeTarget "druth_SMC" */;
 			buildPhases = (
 				4A5D841C27EA6FC6004909AD /* Sources */,
 				4A5D841D27EA6FC6004909AD /* Frameworks */,
@@ -82,9 +106,9 @@
 			);
 			dependencies = (
 			);
-			name = TabbedApp;
+			name = druth_SMC;
 			productName = TabbedApp;
-			productReference = 4A5D842027EA6FC6004909AD /* TabbedApp.app */;
+			productReference = 4A5D842027EA6FC6004909AD /* druth_SMC.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +126,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4A5D841B27EA6FC6004909AD /* Build configuration list for PBXProject "TabbedApp" */;
+			buildConfigurationList = 4A5D841B27EA6FC6004909AD /* Build configuration list for PBXProject "druth_SMC" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +139,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4A5D841F27EA6FC6004909AD /* TabbedApp */,
+				4A5D841F27EA6FC6004909AD /* druth_SMC */,
 			);
 		};
 /* End PBXProject section */
@@ -125,9 +149,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A5D848427F171C7004909AD /* FB.png in Resources */,
 				4A5D843027EA6FCB004909AD /* LaunchScreen.storyboard in Resources */,
+				4A5D848A27F3A55A004909AD /* dea0f3b7f480b1151c08db4a402a43b9.jpg in Resources */,
 				4A5D842D27EA6FCB004909AD /* Assets.xcassets in Resources */,
+				4A5D848327F171C7004909AD /* instagram.png in Resources */,
+				4A5D848627F171C7004909AD /* LinkedIn.png in Resources */,
 				4A5D842B27EA6FC6004909AD /* Main.storyboard in Resources */,
+				4A5D848827F17343004909AD /* 25231.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +167,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4A5D842827EA6FC6004909AD /* ViewController.swift in Sources */,
+				4A5D847E27F16823004909AD /* FourthViewController.swift in Sources */,
+				4A5D843A27EA7378004909AD /* SecondViewController.swift in Sources */,
+				4A5D843827EA7355004909AD /* FirstViewController.swift in Sources */,
+				4A5D843C27EA7640004909AD /* ThirdViewController.swift in Sources */,
 				4A5D842427EA6FC6004909AD /* AppDelegate.swift in Sources */,
 				4A5D842627EA6FC6004909AD /* SceneDelegate.swift in Sources */,
 			);
@@ -290,7 +322,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TabbedApp/Info.plist;
+				INFOPLIST_FILE = druth_SMC/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -301,7 +333,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = pvamu.TabbedApp;
+				PRODUCT_BUNDLE_IDENTIFIER = pvamu.druth_SMC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -317,7 +349,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TabbedApp/Info.plist;
+				INFOPLIST_FILE = druth_SMC/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,7 +360,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = pvamu.TabbedApp;
+				PRODUCT_BUNDLE_IDENTIFIER = pvamu.druth_SMC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -339,7 +371,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4A5D841B27EA6FC6004909AD /* Build configuration list for PBXProject "TabbedApp" */ = {
+		4A5D841B27EA6FC6004909AD /* Build configuration list for PBXProject "druth_SMC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4A5D843227EA6FCB004909AD /* Debug */,
@@ -348,7 +380,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4A5D843427EA6FCB004909AD /* Build configuration list for PBXNativeTarget "TabbedApp" */ = {
+		4A5D843427EA6FCB004909AD /* Build configuration list for PBXNativeTarget "druth_SMC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4A5D843527EA6FCB004909AD /* Debug */,
